@@ -312,7 +312,7 @@ body {
   }
 }
 
-@media (max-width: 900px) {
+@media (max-width: 950px) {
   
   .teamo {
     padding-bottom: 12%;
@@ -367,7 +367,7 @@ body {
   
   
   .fox {
-    margin-top: 22%;
+    margin-top: 10%;
     width: 107.5px; 
     height: 137.5px;
     display: block;
